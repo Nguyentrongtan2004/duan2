@@ -22,8 +22,7 @@ if (is_array($taikhoan)) {
 
                     <div class="mb-3">
                         <label for="exampleInputName" class="form-label">Tên tài khoản</label>
-                        <input type="text" class="form-control" name="nguoidung"
-                            value="<?= $nguoidung ?> ">
+                        <input type="text" class="form-control" name="nguoidung" value="<?= $nguoidung ?> ">
                     </div>
                     <div class="mb-3">
                         <label for="exampleInputPrice" class="form-label">Mật khẩu</label>

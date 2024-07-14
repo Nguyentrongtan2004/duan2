@@ -118,6 +118,7 @@ if (isset($_GET['act']) && $_GET['act'] != "") {
                 $soluong = $_POST['soluong'];
                 $thanhtien = ((int) $soluong * (int) $giasp);
                 $sanphamadd = [$id, $tensp, $img, $giasp, $soluong, $thanhtien];
+                
                 if (isset($_SESSION['mycart'])) {
                     $cartItems = $_SESSION['mycart'];
                     $existingItemKey = null;

@@ -76,8 +76,7 @@ if (isset($_SESSION['nguoidung']) && (is_array($_SESSION['nguoidung']))) {
         </div>
     </div>
 </div>
-</div>
-</div>
+
 
 
 <div class="container">
@@ -89,9 +88,6 @@ if (isset($_SESSION['nguoidung']) && (is_array($_SESSION['nguoidung']))) {
 
 
     <div class="comment">
-
-
-
         <div class="product-slide upsell-products">
             <div class="section-title text-center">
                 <h3>SẢN PHẨM KHÁC</h3>

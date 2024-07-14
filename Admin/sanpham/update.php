@@ -99,10 +99,6 @@ if (is_file($hinhpath)) {
                         
                     </div>
 
-
-
-
-
                     <input type="hidden" name="id" value="<?= $sanpham['id']; ?>">
                     <input type="submit" class="btn btn-success" name="capnhat" onclick="return confirmUpdatesp()"
                         value="Cập nhật">

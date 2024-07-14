@@ -7,10 +7,10 @@
 <!-- About -->
 <div class="section-about ">
     <div class="container">
-        <div class="section-title text-center style7 margin-top-60">
+        <!-- <div class="section-title text-center style7 margin-top-60">
             <span class="sub-title">Chào mừng đến với Boutique!</span>
             <h3>BOUTIQUE</h3>
-        </div>
+        </div> -->
 
         <div class="row">
             <div class="col-sm-10 col-sm-offset-1">
@@ -22,9 +22,9 @@
                     Aliquam rhoncus vel metus vel elementum.</blockquote> -->
             </div>
         </div>
-        <div class="text-center GreatVibes">
-            Nhóm 4 - Dự án 1
-        </div>
+        <!-- <div class="text-center GreatVibes">
+            Nhóm 4 -  án 1
+        </div> -->
     </div>
 </div>
 <!-- About -->
@@ -33,39 +33,10 @@
 <div class="section-team margin-top-80">
     <div class="container">
         <div class="section-title text-center style7">
-            <span class="sub-title">Đội ngũ tuyệt vời của chúng tôi!</span>
+            <span class="sub-title">Nếu Có Vấn Đề Hãy Liên Hệ Với Đội Ngũ Của Chúng Tôi</span>
             <h3>GẶP ĐỘI CỦA CHÚNG TÔI</h3>
         </div>
-        <div class="teams owl-carousel nav-center-center nav-style7" data-loop="true" data-nav="true" data-dots="false"
-            data-margin="30" data-responsive='{"0":{"items":1},"600":{"items":2},"1000":{"items":3}}'>
-            <div class="team">
-                <div class="avatar">
-                    <img src="images/teams/VU.jpg" style="height: 700px;" alt="">
-                </div>
-                <div class="info">
-                    <h3 class="name">Đỗ Khánh Vũ</h3>
-                    <span class="position">Sinh viên lập trình Web</span>
-                </div>
-            </div>
-            <div class="team">
-                <div class="avatar">
-                    <img src="images/teams/Vinh.jpg" style="height: 700px;" alt="">
-                </div>
-                <div class="info">
-                    <h3 class="name">Quang Vinh</h3>
-                    <span class="position">Sinh viên lập trình Web</span>
-                </div>
-            </div>
-            <div class="team">
-                <div class="avatar">
-                    <img src="images/teams/Dien.jpg" style="height: 700px;" alt="">
-                </div>
-                <div class="info">
-                    <h3 class="name">Trần Đăng Diện</h3>
-                    <span class="position">Sinh viên lập trình Web</span>
-                </div>
-            </div>
-        </div>
+       
     </div>
 </div>
 <!-- ./Team -->
